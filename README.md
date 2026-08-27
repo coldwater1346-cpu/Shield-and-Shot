@@ -20,6 +20,7 @@
 
 - [프로젝트 기획서](https://app.notion.com/p/5faaa1b05e3e82aabd5b815b93de33aa?source=copy_link)
 - [프로젝트 소개 및 플레이 영상](https://youtu.be/hXdeEc8CAR0)
+- [프로젝트 전체 내용 포트폴리오](docs/Conqueror_Shield&Shot_발표자료)
 - [게임 개발 포트폴리오 보기 (PDF)](docs/Game-Development-Portfolio-Lee-Chansu.pdf)
 - [게임 개발 포트폴리오 원본 다운로드 (PPTX, GIF 포함)](docs/Game-Development-Portfolio-Lee-Chansu.pptx)
 
